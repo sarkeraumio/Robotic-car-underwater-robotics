@@ -2,18 +2,7 @@
 
 <p align="center">
   <b>A Bluetooth-controlled robot car with a string-driven crane claw and a live FPV camera stream</b><br>
-  Team 4 · CityU URO Robotics Competition
-</p>
-
-<p align="center">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white">
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?logo=raspberrypi&logoColor=white">
-  <img alt="Fusion 360" src="https://img.shields.io/badge/CAD-Fusion%20360-F58220?logo=autodesk&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/Firmware-Arduino%20C%2B%2B-00599C?logo=cplusplus&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="docs/images/claw-prototype.jpg" alt="Lecraneboi 3D-printed crane claw" width="600">
+  
 </p>
 
 ---
