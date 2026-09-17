@@ -71,8 +71,6 @@ A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms,
 
 **Aumio** — mechanical design, electronics, firmware, and vision system
 
-I led the robot across all three engineering disciplines, from CAD through wiring and firmware to the video stream.
-
 ### 🔧 Mechanical design & fabrication
 
 - Designed the robot framework in **Fusion 360**, including the overall structure, component layout, and dimensions needed to fit two layers of hardware within the competition size limit
@@ -118,6 +116,3 @@ lecraneboi/
 
 For the full build details and design process, see the [technical report](docs/Lecraneboi-Technical-Report.pdf).
 
-## Acknowledgements
-
-Built by Team 4. Thanks to **CityU URO** (City University of Hong Kong) for organising the competition.
