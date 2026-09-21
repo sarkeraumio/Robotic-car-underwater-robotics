@@ -36,7 +36,7 @@ flowchart LR
 | **Control** | Arduino Uno, HC-05, 2 × L298N, 3 DC motors, servo, battery pack | Receives phone commands; drives the wheels and operates the claw |
 | **Vision** | Raspberry Pi 4B, USB webcam, power bank | Streams live video to a browser on the same Wi-Fi network |
 
-![chasis](media/chasis.png)
+
 ### Chassis
 
  **Footprint:** 200 × 140 mm, stacked in two layers to stay within the competition size limit
@@ -44,8 +44,8 @@ flowchart LR
   - **Upper layer (1.5 mm hard cardboard):** webcam, claw servo, winch motor and its driver, and the crane claw
   - **Drive:** differential drive with two DC-motor wheels and an omni wheel for tight turns; turning is done by running the wheels at different speeds
   - **Camera placement:** mounted at the rear so both the path ahead and the claw stay in frame
-
-![crane](media/crane.png)
+![chassis](media/chassis.png)
+> Chassis Picture (Laser cutted)
 ### Crane claw
 
 A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms, hook) with two degrees of motion:
@@ -54,6 +54,8 @@ A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms,
 2. **Hook actuation** — a DC motor with a 3D-printed winch pulls a string that draws the hook back toward the car to catch the object.
 3. **Return** — two rubber bands pull the hook back out when the winch releases; wooden rods between the long arms stop them flexing under the band tension.
 
+![crane](media/crane.png)
+> Crane picture (3D-Printed)
 ---
 
 
