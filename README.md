@@ -56,9 +56,6 @@ A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms,
 
 ---
 
-## My Contribution
-
-**Aumio** — mechanical design, electronics, firmware, and vision system
 
 ### 🔧 Mechanical design & fabrication
 
