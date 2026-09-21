@@ -40,11 +40,11 @@ flowchart LR
 
 
 
-/// **Footprint:** 200 × 140 mm, stacked in two layers to stay within the competition size limit
-//- **Lower layer (3 mm laser-cut acrylic):** drive motors, wheels, and battery pack underneath to keep the centre of gravity low; Arduino, Raspberry Pi, drive motor driver, power bank, and kill ///switch on top
-//- **Upper layer (1.5 mm hard cardboard):** webcam, claw servo, winch motor and its driver, and the crane claw
-//- **Drive:** differential drive with two DC-motor wheels and an omni wheel for tight turns; turning is done by running the wheels at different speeds
-//- **Camera placement:** mounted at the rear so both the path ahead and the claw stay in frame
+ **Footprint:** 200 × 140 mm, stacked in two layers to stay within the competition size limit
+**Lower layer (3 mm laser-cut acrylic):** drive motors, wheels, and battery pack underneath to keep the centre of gravity low; Arduino, Raspberry Pi, drive motor driver, power bank, and kill switch on top
+  - **Upper layer (1.5 mm hard cardboard):** webcam, claw servo, winch motor and its driver, and the crane claw
+  - **Drive:** differential drive with two DC-motor wheels and an omni wheel for tight turns; turning is done by running the wheels at different speeds
+  - **Camera placement:** mounted at the rear so both the path ahead and the claw stay in frame
 
 ### Crane claw
 
