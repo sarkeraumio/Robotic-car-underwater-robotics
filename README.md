@@ -14,6 +14,7 @@
 
 
 The project began as an autonomous robot using OpenCV on a Raspberry Pi. Without IR or distance sensing available, the team pivoted to manual first-person-view (FPV) control to deliver a reliable competition build. 
+
 **Unfortunately a complete picture of the robotic car is lost as the project was done in fall of 2022. I forgot to add the picture in the report**
 
 ### How it works
