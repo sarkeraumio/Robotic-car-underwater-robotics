@@ -86,22 +86,3 @@ A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms,
 
 ---
 
-## Repository Structure
-
-```
-lecraneboi/
-├── README.md
-├── docs/
-│   ├── Lecraneboi-Technical-Report.pdf   # Full technical report
-│   └── images/
-├── firmware/arduino/lecraneboi/          # Arduino sketch
-├── raspberry-pi/                         # mjpg-streamer setup guide
-├── cad/
-│   ├── fusion360/                        # .f3d source files
-│   ├── stl/                              # Claw, couplers, supports
-│   └── dxf/                              # Laser-cut base plate
-└── wiring/                               # Wiring diagrams
-```
-
-For the full build details and design process, see the [technical report](docs/Lecraneboi-Technical-Report.pdf).
-
