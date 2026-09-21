@@ -36,9 +36,8 @@ flowchart LR
 | **Control** | Arduino Uno, HC-05, 2 × L298N, 3 DC motors, servo, battery pack | Receives phone commands; drives the wheels and operates the claw |
 | **Vision** | Raspberry Pi 4B, USB webcam, power bank | Streams live video to a browser on the same Wi-Fi network |
 
+![chasis](media/chasis.png)
 ### Chassis
-
-
 
  **Footprint:** 200 × 140 mm, stacked in two layers to stay within the competition size limit
 **Lower layer (3 mm laser-cut acrylic):** drive motors, wheels, and battery pack underneath to keep the centre of gravity low; Arduino, Raspberry Pi, drive motor driver, power bank, and kill switch on top
@@ -46,6 +45,7 @@ flowchart LR
   - **Drive:** differential drive with two DC-motor wheels and an omni wheel for tight turns; turning is done by running the wheels at different speeds
   - **Camera placement:** mounted at the rear so both the path ahead and the claw stay in frame
 
+![crane](media/crane.png)
 ### Crane claw
 
 A six-part 3D-printed mechanism (hexagonal shaft, two long arms, two short arms, hook) with two degrees of motion:
